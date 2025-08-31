@@ -2,7 +2,7 @@
 
 **`Entusiasta em Técnologia`**
 
-🙋‍♂️ Hello World me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciencia da Computação e fazendo técnico de iformática a parte no iFSP São jõao da Boa Vista. Sempre gostei de técnologia e agora pretendo compartilhar o meu conhecimento tanto aqui como para o mundo. Links para contato: [E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0), Linkedin [davi-paulino](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), meu @ [_paulinodavi_](https://www.instagram.com/_paulinodavi_/?next=%2F)
+🙋‍♂️ Hello World me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciencia da Computação e fazendo técnico em Informática a parte no iFSP São jõao da Boa Vista. Sempre gostei de técnologia e agora pretendo compartilhar o meu conhecimento tanto aqui como para o mundo. Links para contato: [E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0), Linkedin [davi-paulino](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), meu @ [_paulinodavi_](https://www.instagram.com/_paulinodavi_/?next=%2F)
 
    <p
       <a
