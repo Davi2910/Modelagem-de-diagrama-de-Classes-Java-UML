@@ -1,85 +1,77 @@
- # 👻 Davi Paulino Conceição
+# 👻 Davi Paulino Conceição
+*Entusiasta em Tecnologia*
 
-**`Entusiasta em Técnologia`**
+---
 
-🙋‍♂️ Hello World me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciencia da Computação e fazendo técnico em Informática a parte no IFSP São jõao da Boa Vista. Sempre gostei de técnologia e agora pretendo compartilhar o meu conhecimento tanto aqui como para o mundo. Links para contato: [E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0), Linkedin [davi-paulino](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), meu @ [_paulinodavi_](https://www.instagram.com/_paulinodavi_/?next=%2F)
+## 📊 Estatísticas do GitHub
 
-   <p
-      <a
-         img 
-      <a
-        ></a>
-      <a href="https://github.com/Davi2910?tab=followers">
-         <img alt="Seguidores" title="Me seiga no github" src="https://custom-icon-badges.demolab.com/github/followers/Davi2910?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Davi2910?tab=repositories&sort=stargazers">
-         <img alt="Total de estrelas" title="Total de estrelas github" src="https://custom-icon-badges.demolab.com/github/stars/Davi2910?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-   </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" alt="Estatísticas do GitHub de Davi Paulino"/>
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" alt="Linguagens Utilizadas (Por Tamanho de Arquivo)"/>
+</p>
 
-   ### 🤖 Linguagens e Tecnologias
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições"/>
+</p>
 
-   
-   <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    />  
+---
 
-    
-  <img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-  />
-               
+## 📌 Seguidores e Estrelas
 
- <img 
-  align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-  />
+<p align="center">
+  <a href="https://github.com/Davi2910?tab=followers">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/Davi2910?style=for-the-badge&logo=github&label=Seguidores&color=blue"/>
+  </a>
+  <a href="https://github.com/Davi2910?tab=repositories&sort=stargazers">
+    <img alt="Estrelas" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Estrelas&color=yellow&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Davi2910"/>
+  </a>
+</p>
 
-  
-  <img 
-   align="Java" 
-    alt="Java"
-    title="JavaL" 
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
-          
-          
-       
-<br/>
-<br/>
+---
 
+## 🤖 Linguagens e Tecnologias
 
-### 📊 Estatísticas
-  <img 
-   align="Left" 
-    alt="GitHub Stats"
-    height="200px" 
-    style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<p align="center">
+  <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+</p>
 
-  <img 
-   align="Left" 
-    alt="GitHub Stats"
-    height="200px" 
-    style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi2910&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-  
+---
 
-         
+## 👨‍💻 Sobre Mim
 
-          
+🙋‍♂️ **Olá mundo,** Me chamo Davi Paulino Conceição, tenho 19 anos e sou apaixonado por tecnologia e programação.
 
+### 🎓 Formação Acadêmica
+- **Ciência da Computação** - IFSP São João da Boa Vista *(em andamento)*
+
+### 🔧 Formação Técnica
+- **Técnico em Manutenção e Suporte em Informática** - IFSP São João da Boa Vista *(em andamento)*
+
+💻 Estou focado em compartilhar meu conhecimento e aprendizado através dos meus projetos aqui no GitHub.
+
+🎯 Meu objetivo é crescer constantemente, prosperar e tambem contribuir para a comunidade tech!
+
+---
+
+## 📫 Entre em Contato
+
+<p align="center">
+  <a href="https://outlook.live.com/mail/0/">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_paulinodavi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!</i>
+</p>
